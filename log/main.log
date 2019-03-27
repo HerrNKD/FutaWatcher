@@ -1,0 +1,893 @@
+2019-03-10 10:20:00,882 INFO     Log                            get_line     22: /Users/work/futaba/FutaWatcher/log/slstage.log
+2019-03-10 10:20:00,884 INFO     Log                            get_line     26: None
+2019-03-10 10:20:00,884 INFO     main                           <module>     25: slstage.log
+2019-03-10 10:20:00,884 INFO     main                           <module>     26: [<RotatingFileHandler /Users/work/futaba/FutaWatcher/log/slstage.log (NOTSET)>]
+2019-03-10 10:20:00,884 INFO     main                           <module>     27: None
+2019-03-10 10:20:00,884 INFO     CheckThread                    first        26: None
+2019-03-10 10:20:00,884 INFO     CheckThread                    first        28: Start Search Thread
+2019-03-10 10:20:00,884 INFO     ServerUI                       SearchThread   25: slstage.log : s.png
+2019-03-10 10:20:14,505 INFO     GetCatalogImages               get_catalog   84: success
+2019-03-10 10:20:14,506 INFO     TempleteMatching               judge_matching   87: /Users/work/futaba/FutaWatcher/.seed/s.png
+2019-03-10 10:20:18,834 INFO     main                           <module>     32: None
+2019-03-10 10:20:18,835 INFO     CheckThread                    finish       39: There is no thread in Catalog.
+2019-03-10 10:20:18,835 INFO     CheckThread                    finish       40: None
+2019-03-10 10:20:18,835 INFO     logging_config                 change_handler   37: change
+2019-03-10 10:20:18,835 INFO     logging_config                 change_handler   39: <RotatingFileHandler /Users/work/futaba/FutaWatcher/log/slstage.log (NOTSET)>
+2019-03-10 10:20:18,836 INFO     Log                            get_line     22: /Users/work/futaba/FutaWatcher/log/Imgtoon.log
+2019-03-10 10:20:18,837 INFO     Log                            get_line     26: None
+2019-03-10 10:20:18,837 INFO     main                           <module>     25: Imgtoon.log
+2019-03-10 10:20:18,837 INFO     main                           <module>     26: [<RotatingFileHandler /Users/work/futaba/FutaWatcher/log/Imgtoon.log (NOTSET)>]
+2019-03-10 10:20:18,837 INFO     main                           <module>     27: None
+2019-03-10 10:20:18,837 INFO     CheckThread                    first        26: None
+2019-03-10 10:20:18,837 INFO     CheckThread                    first        28: Start Search Thread
+2019-03-10 10:20:18,837 INFO     ServerUI                       SearchThread   25: Imgtoon.log : ink.png
+2019-03-10 10:20:30,370 INFO     GetCatalogImages               get_catalog   84: success
+2019-03-10 10:20:30,370 INFO     TempleteMatching               judge_matching   87: /Users/work/futaba/FutaWatcher/.seed/ink.png
+2019-03-10 10:20:34,796 INFO     main                           <module>     32: None
+2019-03-10 10:20:34,797 INFO     CheckThread                    finish       39: There is no thread in Catalog.
+2019-03-10 10:20:34,797 INFO     CheckThread                    finish       40: None
+2019-03-10 10:21:01,471 INFO     logging_config                 change_handler   37: change
+2019-03-10 10:21:01,471 INFO     Log                            get_line     22: /Users/work/futaba/FutaWatcher/log/slstage.log
+2019-03-10 10:21:01,472 INFO     Log                            get_line     26: None
+2019-03-10 10:21:01,472 INFO     main                           <module>     25: slstage.log
+2019-03-10 10:21:01,473 INFO     main                           <module>     26: [<RotatingFileHandler /Users/work/futaba/FutaWatcher/log/slstage.log (NOTSET)>]
+2019-03-10 10:21:01,473 INFO     main                           <module>     27: None
+2019-03-10 10:21:01,473 INFO     CheckThread                    first        26: None
+2019-03-10 10:21:01,473 INFO     CheckThread                    first        28: Start Search Thread
+2019-03-10 10:21:01,473 INFO     ServerUI                       SearchThread   25: slstage.log : s.png
+2019-03-10 10:21:12,490 INFO     GetCatalogImages               get_catalog   84: success
+2019-03-10 10:21:12,490 INFO     TempleteMatching               judge_matching   87: /Users/work/futaba/FutaWatcher/.seed/s.png
+2019-03-10 10:21:16,492 INFO     main                           <module>     32: None
+2019-03-10 10:21:16,493 INFO     CheckThread                    finish       39: There is no thread in Catalog.
+2019-03-10 10:21:16,493 INFO     CheckThread                    finish       40: None
+2019-03-10 10:21:16,493 INFO     logging_config                 change_handler   37: change
+2019-03-10 10:21:16,493 INFO     logging_config                 change_handler   39: <RotatingFileHandler /Users/work/futaba/FutaWatcher/log/slstage.log (NOTSET)>
+2019-03-10 10:21:16,494 INFO     Log                            get_line     22: /Users/work/futaba/FutaWatcher/log/Imgtoon.log
+2019-03-10 10:21:16,495 INFO     Log                            get_line     26: None
+2019-03-10 10:21:16,495 INFO     main                           <module>     25: Imgtoon.log
+2019-03-10 10:21:16,495 INFO     main                           <module>     26: [<RotatingFileHandler /Users/work/futaba/FutaWatcher/log/Imgtoon.log (NOTSET)>]
+2019-03-10 10:21:16,495 INFO     main                           <module>     27: None
+2019-03-10 10:21:16,495 INFO     CheckThread                    first        26: None
+2019-03-10 10:21:16,495 INFO     CheckThread                    first        28: Start Search Thread
+2019-03-10 10:21:16,495 INFO     ServerUI                       SearchThread   25: Imgtoon.log : ink.png
+2019-03-10 10:21:26,945 INFO     GetCatalogImages               get_catalog   84: success
+2019-03-10 10:21:26,945 INFO     TempleteMatching               judge_matching   87: /Users/work/futaba/FutaWatcher/.seed/ink.png
+2019-03-10 10:21:30,709 INFO     main                           <module>     32: None
+2019-03-10 10:21:30,710 INFO     CheckThread                    finish       39: There is no thread in Catalog.
+2019-03-10 10:21:30,710 INFO     CheckThread                    finish       40: None
+2019-03-10 10:22:01,320 INFO     logging_config                 change_handler   37: change
+2019-03-10 10:22:01,320 INFO     Log                            get_line     22: /Users/work/futaba/FutaWatcher/log/slstage.log
+2019-03-10 10:22:01,321 INFO     Log                            get_line     26: None
+2019-03-10 10:22:01,322 INFO     main                           <module>     25: slstage.log
+2019-03-10 10:22:01,322 INFO     main                           <module>     26: [<RotatingFileHandler /Users/work/futaba/FutaWatcher/log/slstage.log (NOTSET)>]
+2019-03-10 10:22:01,322 INFO     main                           <module>     27: None
+2019-03-10 10:22:01,322 INFO     CheckThread                    first        26: None
+2019-03-10 10:22:01,322 INFO     CheckThread                    first        28: Start Search Thread
+2019-03-10 10:22:01,322 INFO     ServerUI                       SearchThread   25: slstage.log : s.png
+2019-03-10 10:22:12,197 INFO     GetCatalogImages               get_catalog   84: success
+2019-03-10 10:22:12,197 INFO     TempleteMatching               judge_matching   87: /Users/work/futaba/FutaWatcher/.seed/s.png
+2019-03-10 10:22:16,343 INFO     main                           <module>     32: None
+2019-03-10 10:22:16,344 INFO     CheckThread                    finish       39: There is no thread in Catalog.
+2019-03-10 10:22:16,344 INFO     CheckThread                    finish       40: None
+2019-03-10 10:22:16,344 INFO     logging_config                 change_handler   37: change
+2019-03-10 10:22:16,344 INFO     logging_config                 change_handler   39: <RotatingFileHandler /Users/work/futaba/FutaWatcher/log/slstage.log (NOTSET)>
+2019-03-10 10:22:16,344 INFO     Log                            get_line     22: /Users/work/futaba/FutaWatcher/log/Imgtoon.log
+2019-03-10 10:22:16,345 INFO     Log                            get_line     26: None
+2019-03-10 10:22:16,346 INFO     main                           <module>     25: Imgtoon.log
+2019-03-10 10:22:16,346 INFO     main                           <module>     26: [<RotatingFileHandler /Users/work/futaba/FutaWatcher/log/Imgtoon.log (NOTSET)>]
+2019-03-10 10:22:16,346 INFO     main                           <module>     27: None
+2019-03-10 10:22:16,346 INFO     CheckThread                    first        26: None
+2019-03-10 10:22:16,346 INFO     CheckThread                    first        28: Start Search Thread
+2019-03-10 10:22:16,346 INFO     ServerUI                       SearchThread   25: Imgtoon.log : ink.png
+2019-03-10 10:22:26,954 INFO     GetCatalogImages               get_catalog   84: success
+2019-03-10 10:22:26,954 INFO     TempleteMatching               judge_matching   87: /Users/work/futaba/FutaWatcher/.seed/ink.png
+2019-03-10 10:22:31,279 INFO     main                           <module>     32: None
+2019-03-10 10:22:31,279 INFO     CheckThread                    finish       39: There is no thread in Catalog.
+2019-03-10 10:22:31,280 INFO     CheckThread                    finish       40: None
+2019-03-10 10:23:00,862 INFO     logging_config                 change_handler   37: change
+2019-03-10 10:23:00,862 INFO     Log                            get_line     22: /Users/work/futaba/FutaWatcher/log/slstage.log
+2019-03-10 10:23:00,863 INFO     Log                            get_line     26: None
+2019-03-10 10:23:00,863 INFO     main                           <module>     25: slstage.log
+2019-03-10 10:23:00,863 INFO     main                           <module>     26: [<RotatingFileHandler /Users/work/futaba/FutaWatcher/log/slstage.log (NOTSET)>]
+2019-03-10 10:23:00,863 INFO     main                           <module>     27: None
+2019-03-10 10:23:00,864 INFO     CheckThread                    first        26: None
+2019-03-10 10:23:00,864 INFO     CheckThread                    first        28: Start Search Thread
+2019-03-10 10:23:00,864 INFO     ServerUI                       SearchThread   25: slstage.log : s.png
+2019-03-10 10:23:12,622 INFO     GetCatalogImages               get_catalog   84: success
+2019-03-10 10:23:12,622 INFO     TempleteMatching               judge_matching   87: /Users/work/futaba/FutaWatcher/.seed/s.png
+2019-03-10 10:23:16,560 INFO     main                           <module>     32: None
+2019-03-10 10:23:16,560 INFO     CheckThread                    finish       39: There is no thread in Catalog.
+2019-03-10 10:23:16,560 INFO     CheckThread                    finish       40: None
+2019-03-10 10:23:16,561 INFO     logging_config                 change_handler   37: change
+2019-03-10 10:23:16,561 INFO     logging_config                 change_handler   39: <RotatingFileHandler /Users/work/futaba/FutaWatcher/log/slstage.log (NOTSET)>
+2019-03-10 10:23:16,561 INFO     Log                            get_line     22: /Users/work/futaba/FutaWatcher/log/Imgtoon.log
+2019-03-10 10:23:16,562 INFO     Log                            get_line     26: None
+2019-03-10 10:23:16,562 INFO     main                           <module>     25: Imgtoon.log
+2019-03-10 10:23:16,562 INFO     main                           <module>     26: [<RotatingFileHandler /Users/work/futaba/FutaWatcher/log/Imgtoon.log (NOTSET)>]
+2019-03-10 10:23:16,563 INFO     main                           <module>     27: None
+2019-03-10 10:23:16,563 INFO     CheckThread                    first        26: None
+2019-03-10 10:23:16,563 INFO     CheckThread                    first        28: Start Search Thread
+2019-03-10 10:23:16,563 INFO     ServerUI                       SearchThread   25: Imgtoon.log : ink.png
+2019-03-10 10:23:27,196 INFO     GetCatalogImages               get_catalog   84: success
+2019-03-10 10:23:27,196 INFO     TempleteMatching               judge_matching   87: /Users/work/futaba/FutaWatcher/.seed/ink.png
+2019-03-10 10:23:32,028 INFO     main                           <module>     32: None
+2019-03-10 10:23:32,029 INFO     CheckThread                    finish       39: There is no thread in Catalog.
+2019-03-10 10:23:32,029 INFO     CheckThread                    finish       40: None
+2019-03-10 10:24:01,239 INFO     logging_config                 change_handler   37: change
+2019-03-10 10:24:01,240 INFO     Log                            get_line     22: /Users/work/futaba/FutaWatcher/log/slstage.log
+2019-03-10 10:24:01,242 INFO     Log                            get_line     26: None
+2019-03-10 10:24:01,242 INFO     main                           <module>     25: slstage.log
+2019-03-10 10:24:01,242 INFO     main                           <module>     26: [<RotatingFileHandler /Users/work/futaba/FutaWatcher/log/slstage.log (NOTSET)>]
+2019-03-10 10:24:01,242 INFO     main                           <module>     27: None
+2019-03-10 10:24:01,242 INFO     CheckThread                    first        26: None
+2019-03-10 10:24:01,242 INFO     CheckThread                    first        28: Start Search Thread
+2019-03-10 10:24:01,242 INFO     ServerUI                       SearchThread   25: slstage.log : s.png
+2019-03-10 10:24:16,020 INFO     GetCatalogImages               get_catalog   84: success
+2019-03-10 10:24:16,020 INFO     TempleteMatching               judge_matching   87: /Users/work/futaba/FutaWatcher/.seed/s.png
+2019-03-10 10:24:21,428 INFO     main                           <module>     32: None
+2019-03-10 10:24:21,430 INFO     CheckThread                    finish       39: There is no thread in Catalog.
+2019-03-10 10:24:21,430 INFO     CheckThread                    finish       40: None
+2019-03-10 10:24:21,430 INFO     logging_config                 change_handler   37: change
+2019-03-10 10:24:21,430 INFO     logging_config                 change_handler   39: <RotatingFileHandler /Users/work/futaba/FutaWatcher/log/slstage.log (NOTSET)>
+2019-03-10 10:24:21,431 INFO     Log                            get_line     22: /Users/work/futaba/FutaWatcher/log/Imgtoon.log
+2019-03-10 10:24:21,433 INFO     Log                            get_line     26: None
+2019-03-10 10:24:21,433 INFO     main                           <module>     25: Imgtoon.log
+2019-03-10 10:24:21,433 INFO     main                           <module>     26: [<RotatingFileHandler /Users/work/futaba/FutaWatcher/log/Imgtoon.log (NOTSET)>]
+2019-03-10 10:24:21,434 INFO     main                           <module>     27: None
+2019-03-10 10:24:21,434 INFO     CheckThread                    first        26: None
+2019-03-10 10:24:21,434 INFO     CheckThread                    first        28: Start Search Thread
+2019-03-10 10:24:21,434 INFO     ServerUI                       SearchThread   25: Imgtoon.log : ink.png
+2019-03-10 10:24:33,388 INFO     GetCatalogImages               get_catalog   84: success
+2019-03-10 10:24:33,389 INFO     TempleteMatching               judge_matching   87: /Users/work/futaba/FutaWatcher/.seed/ink.png
+2019-03-10 10:24:39,214 INFO     main                           <module>     32: None
+2019-03-10 10:24:39,214 INFO     CheckThread                    finish       39: There is no thread in Catalog.
+2019-03-10 10:24:39,214 INFO     CheckThread                    finish       40: None
+2019-03-10 10:25:01,429 INFO     logging_config                 change_handler   37: change
+2019-03-10 10:25:01,429 INFO     Log                            get_line     22: /Users/work/futaba/FutaWatcher/log/slstage.log
+2019-03-10 10:25:01,431 INFO     Log                            get_line     26: None
+2019-03-10 10:25:01,432 INFO     main                           <module>     25: slstage.log
+2019-03-10 10:25:01,432 INFO     main                           <module>     26: [<RotatingFileHandler /Users/work/futaba/FutaWatcher/log/slstage.log (NOTSET)>]
+2019-03-10 10:25:01,432 INFO     main                           <module>     27: None
+2019-03-10 10:25:01,432 INFO     CheckThread                    first        26: None
+2019-03-10 10:25:01,432 INFO     CheckThread                    first        28: Start Search Thread
+2019-03-10 10:25:01,432 INFO     ServerUI                       SearchThread   25: slstage.log : s.png
+2019-03-10 10:25:14,086 INFO     GetCatalogImages               get_catalog   84: success
+2019-03-10 10:25:14,087 INFO     TempleteMatching               judge_matching   87: /Users/work/futaba/FutaWatcher/.seed/s.png
+2019-03-10 10:25:24,522 INFO     main                           <module>     32: None
+2019-03-10 10:25:24,523 INFO     CheckThread                    finish       39: There is no thread in Catalog.
+2019-03-10 10:25:24,523 INFO     CheckThread                    finish       40: None
+2019-03-10 10:25:24,523 INFO     logging_config                 change_handler   37: change
+2019-03-10 10:25:24,523 INFO     logging_config                 change_handler   39: <RotatingFileHandler /Users/work/futaba/FutaWatcher/log/slstage.log (NOTSET)>
+2019-03-10 10:25:24,524 INFO     Log                            get_line     22: /Users/work/futaba/FutaWatcher/log/Imgtoon.log
+2019-03-10 10:25:24,525 INFO     Log                            get_line     26: None
+2019-03-10 10:25:24,525 INFO     main                           <module>     25: Imgtoon.log
+2019-03-10 10:25:24,525 INFO     main                           <module>     26: [<RotatingFileHandler /Users/work/futaba/FutaWatcher/log/Imgtoon.log (NOTSET)>]
+2019-03-10 10:25:24,525 INFO     main                           <module>     27: None
+2019-03-10 10:25:24,525 INFO     CheckThread                    first        26: None
+2019-03-10 10:25:24,525 INFO     CheckThread                    first        28: Start Search Thread
+2019-03-10 10:25:24,526 INFO     ServerUI                       SearchThread   25: Imgtoon.log : ink.png
+2019-03-10 10:25:38,478 INFO     GetCatalogImages               get_catalog   84: success
+2019-03-10 10:25:38,478 INFO     TempleteMatching               judge_matching   87: /Users/work/futaba/FutaWatcher/.seed/ink.png
+2019-03-10 10:25:44,069 INFO     main                           <module>     32: None
+2019-03-10 10:25:44,069 INFO     CheckThread                    finish       39: There is no thread in Catalog.
+2019-03-10 10:25:44,070 INFO     CheckThread                    finish       40: None
+2019-03-10 10:26:00,645 INFO     logging_config                 change_handler   37: change
+2019-03-10 10:26:00,646 INFO     Log                            get_line     22: /Users/work/futaba/FutaWatcher/log/slstage.log
+2019-03-10 10:26:00,647 INFO     Log                            get_line     26: None
+2019-03-10 10:26:00,647 INFO     main                           <module>     25: slstage.log
+2019-03-10 10:26:00,647 INFO     main                           <module>     26: [<RotatingFileHandler /Users/work/futaba/FutaWatcher/log/slstage.log (NOTSET)>]
+2019-03-10 10:26:00,647 INFO     main                           <module>     27: None
+2019-03-10 10:26:00,647 INFO     CheckThread                    first        26: None
+2019-03-10 10:26:00,647 INFO     CheckThread                    first        28: Start Search Thread
+2019-03-10 10:26:00,647 INFO     ServerUI                       SearchThread   25: slstage.log : s.png
+2019-03-10 10:26:11,348 INFO     GetCatalogImages               get_catalog   84: success
+2019-03-10 10:26:11,348 INFO     TempleteMatching               judge_matching   87: /Users/work/futaba/FutaWatcher/.seed/s.png
+2019-03-10 10:26:17,264 INFO     main                           <module>     32: None
+2019-03-10 10:26:17,265 INFO     CheckThread                    finish       39: There is no thread in Catalog.
+2019-03-10 10:26:17,265 INFO     CheckThread                    finish       40: None
+2019-03-10 10:26:17,265 INFO     logging_config                 change_handler   37: change
+2019-03-10 10:26:17,265 INFO     logging_config                 change_handler   39: <RotatingFileHandler /Users/work/futaba/FutaWatcher/log/slstage.log (NOTSET)>
+2019-03-10 10:26:17,265 INFO     Log                            get_line     22: /Users/work/futaba/FutaWatcher/log/Imgtoon.log
+2019-03-10 10:26:17,267 INFO     Log                            get_line     26: None
+2019-03-10 10:26:17,267 INFO     main                           <module>     25: Imgtoon.log
+2019-03-10 10:26:17,267 INFO     main                           <module>     26: [<RotatingFileHandler /Users/work/futaba/FutaWatcher/log/Imgtoon.log (NOTSET)>]
+2019-03-10 10:26:17,267 INFO     main                           <module>     27: None
+2019-03-10 10:26:17,267 INFO     CheckThread                    first        26: None
+2019-03-10 10:26:17,267 INFO     CheckThread                    first        28: Start Search Thread
+2019-03-10 10:26:17,267 INFO     ServerUI                       SearchThread   25: Imgtoon.log : ink.png
+2019-03-10 10:26:28,739 INFO     GetCatalogImages               get_catalog   84: success
+2019-03-10 10:26:28,740 INFO     TempleteMatching               judge_matching   87: /Users/work/futaba/FutaWatcher/.seed/ink.png
+2019-03-10 10:26:36,562 INFO     main                           <module>     32: None
+2019-03-10 10:26:36,562 INFO     CheckThread                    finish       39: There is no thread in Catalog.
+2019-03-10 10:26:36,562 INFO     CheckThread                    finish       40: None
+2019-03-10 10:27:01,174 INFO     logging_config                 change_handler   37: change
+2019-03-10 10:27:01,174 INFO     Log                            get_line     22: /Users/work/futaba/FutaWatcher/log/slstage.log
+2019-03-10 10:27:01,175 INFO     Log                            get_line     26: None
+2019-03-10 10:27:01,176 INFO     main                           <module>     25: slstage.log
+2019-03-10 10:27:01,176 INFO     main                           <module>     26: [<RotatingFileHandler /Users/work/futaba/FutaWatcher/log/slstage.log (NOTSET)>]
+2019-03-10 10:27:01,176 INFO     main                           <module>     27: None
+2019-03-10 10:27:01,176 INFO     CheckThread                    first        26: None
+2019-03-10 10:27:01,176 INFO     CheckThread                    first        28: Start Search Thread
+2019-03-10 10:27:01,176 INFO     ServerUI                       SearchThread   25: slstage.log : s.png
+2019-03-10 10:27:13,205 INFO     GetCatalogImages               get_catalog   84: success
+2019-03-10 10:27:13,206 INFO     TempleteMatching               judge_matching   87: /Users/work/futaba/FutaWatcher/.seed/s.png
+2019-03-10 10:27:18,289 INFO     main                           <module>     32: None
+2019-03-10 10:27:18,289 INFO     CheckThread                    finish       39: There is no thread in Catalog.
+2019-03-10 10:27:18,289 INFO     CheckThread                    finish       40: None
+2019-03-10 10:27:18,289 INFO     logging_config                 change_handler   37: change
+2019-03-10 10:27:18,289 INFO     logging_config                 change_handler   39: <RotatingFileHandler /Users/work/futaba/FutaWatcher/log/slstage.log (NOTSET)>
+2019-03-10 10:27:18,290 INFO     Log                            get_line     22: /Users/work/futaba/FutaWatcher/log/Imgtoon.log
+2019-03-10 10:27:18,291 INFO     Log                            get_line     26: None
+2019-03-10 10:27:18,291 INFO     main                           <module>     25: Imgtoon.log
+2019-03-10 10:27:18,291 INFO     main                           <module>     26: [<RotatingFileHandler /Users/work/futaba/FutaWatcher/log/Imgtoon.log (NOTSET)>]
+2019-03-10 10:27:18,291 INFO     main                           <module>     27: None
+2019-03-10 10:27:18,292 INFO     CheckThread                    first        26: None
+2019-03-10 10:27:18,292 INFO     CheckThread                    first        28: Start Search Thread
+2019-03-10 10:27:18,292 INFO     ServerUI                       SearchThread   25: Imgtoon.log : ink.png
+2019-03-10 10:27:29,549 INFO     GetCatalogImages               get_catalog   84: success
+2019-03-10 10:27:29,550 INFO     TempleteMatching               judge_matching   87: /Users/work/futaba/FutaWatcher/.seed/ink.png
+2019-03-10 10:27:34,957 INFO     main                           <module>     32: None
+2019-03-10 10:27:34,957 INFO     CheckThread                    finish       39: There is no thread in Catalog.
+2019-03-10 10:27:34,958 INFO     CheckThread                    finish       40: None
+2019-03-10 10:28:00,652 INFO     logging_config                 change_handler   37: change
+2019-03-10 10:28:00,653 INFO     Log                            get_line     22: /Users/work/futaba/FutaWatcher/log/slstage.log
+2019-03-10 10:28:00,654 INFO     Log                            get_line     26: None
+2019-03-10 10:28:00,654 INFO     main                           <module>     25: slstage.log
+2019-03-10 10:28:00,654 INFO     main                           <module>     26: [<RotatingFileHandler /Users/work/futaba/FutaWatcher/log/slstage.log (NOTSET)>]
+2019-03-10 10:28:00,654 INFO     main                           <module>     27: None
+2019-03-10 10:28:00,655 INFO     CheckThread                    first        26: None
+2019-03-10 10:28:00,655 INFO     CheckThread                    first        28: Start Search Thread
+2019-03-10 10:28:00,655 INFO     ServerUI                       SearchThread   25: slstage.log : s.png
+2019-03-10 10:28:12,806 INFO     GetCatalogImages               get_catalog   84: success
+2019-03-10 10:28:12,806 INFO     TempleteMatching               judge_matching   87: /Users/work/futaba/FutaWatcher/.seed/s.png
+2019-03-10 10:28:18,690 INFO     main                           <module>     32: None
+2019-03-10 10:28:18,691 INFO     CheckThread                    finish       39: There is no thread in Catalog.
+2019-03-10 10:28:18,691 INFO     CheckThread                    finish       40: None
+2019-03-10 10:28:18,691 INFO     logging_config                 change_handler   37: change
+2019-03-10 10:28:18,691 INFO     logging_config                 change_handler   39: <RotatingFileHandler /Users/work/futaba/FutaWatcher/log/slstage.log (NOTSET)>
+2019-03-10 10:28:18,692 INFO     Log                            get_line     22: /Users/work/futaba/FutaWatcher/log/Imgtoon.log
+2019-03-10 10:28:18,693 INFO     Log                            get_line     26: None
+2019-03-10 10:28:18,693 INFO     main                           <module>     25: Imgtoon.log
+2019-03-10 10:28:18,694 INFO     main                           <module>     26: [<RotatingFileHandler /Users/work/futaba/FutaWatcher/log/Imgtoon.log (NOTSET)>]
+2019-03-10 10:28:18,694 INFO     main                           <module>     27: None
+2019-03-10 10:28:18,694 INFO     CheckThread                    first        26: None
+2019-03-10 10:28:18,694 INFO     CheckThread                    first        28: Start Search Thread
+2019-03-10 10:28:18,694 INFO     ServerUI                       SearchThread   25: Imgtoon.log : ink.png
+2019-03-10 10:28:30,858 INFO     GetCatalogImages               get_catalog   84: success
+2019-03-10 10:28:30,859 INFO     TempleteMatching               judge_matching   87: /Users/work/futaba/FutaWatcher/.seed/ink.png
+2019-03-10 10:28:36,206 INFO     main                           <module>     32: None
+2019-03-10 10:28:36,206 INFO     CheckThread                    finish       39: There is no thread in Catalog.
+2019-03-10 10:28:36,206 INFO     CheckThread                    finish       40: None
+2019-03-10 10:29:00,813 INFO     logging_config                 change_handler   37: change
+2019-03-10 10:29:00,814 INFO     Log                            get_line     22: /Users/work/futaba/FutaWatcher/log/slstage.log
+2019-03-10 10:29:00,815 INFO     Log                            get_line     26: None
+2019-03-10 10:29:00,815 INFO     main                           <module>     25: slstage.log
+2019-03-10 10:29:00,815 INFO     main                           <module>     26: [<RotatingFileHandler /Users/work/futaba/FutaWatcher/log/slstage.log (NOTSET)>]
+2019-03-10 10:29:00,815 INFO     main                           <module>     27: None
+2019-03-10 10:29:00,815 INFO     CheckThread                    first        26: None
+2019-03-10 10:29:00,815 INFO     CheckThread                    first        28: Start Search Thread
+2019-03-10 10:29:00,815 INFO     ServerUI                       SearchThread   25: slstage.log : s.png
+2019-03-10 10:29:11,503 INFO     GetCatalogImages               get_catalog   84: success
+2019-03-10 10:29:11,503 INFO     TempleteMatching               judge_matching   87: /Users/work/futaba/FutaWatcher/.seed/s.png
+2019-03-10 10:29:16,913 INFO     main                           <module>     32: None
+2019-03-10 10:29:16,914 INFO     CheckThread                    finish       39: There is no thread in Catalog.
+2019-03-10 10:29:16,914 INFO     CheckThread                    finish       40: None
+2019-03-10 10:29:16,914 INFO     logging_config                 change_handler   37: change
+2019-03-10 10:29:16,914 INFO     logging_config                 change_handler   39: <RotatingFileHandler /Users/work/futaba/FutaWatcher/log/slstage.log (NOTSET)>
+2019-03-10 10:29:16,915 INFO     Log                            get_line     22: /Users/work/futaba/FutaWatcher/log/Imgtoon.log
+2019-03-10 10:29:16,916 INFO     Log                            get_line     26: None
+2019-03-10 10:29:16,916 INFO     main                           <module>     25: Imgtoon.log
+2019-03-10 10:29:16,916 INFO     main                           <module>     26: [<RotatingFileHandler /Users/work/futaba/FutaWatcher/log/Imgtoon.log (NOTSET)>]
+2019-03-10 10:29:16,916 INFO     main                           <module>     27: None
+2019-03-10 10:29:16,916 INFO     CheckThread                    first        26: None
+2019-03-10 10:29:16,916 INFO     CheckThread                    first        28: Start Search Thread
+2019-03-10 10:29:16,916 INFO     ServerUI                       SearchThread   25: Imgtoon.log : ink.png
+2019-03-10 10:29:27,625 INFO     GetCatalogImages               get_catalog   84: success
+2019-03-10 10:29:27,625 INFO     TempleteMatching               judge_matching   87: /Users/work/futaba/FutaWatcher/.seed/ink.png
+2019-03-10 10:29:33,064 INFO     main                           <module>     32: None
+2019-03-10 10:29:33,064 INFO     CheckThread                    finish       39: There is no thread in Catalog.
+2019-03-10 10:29:33,064 INFO     CheckThread                    finish       40: None
+2019-03-10 10:30:00,662 INFO     logging_config                 change_handler   37: change
+2019-03-10 10:30:00,663 INFO     Log                            get_line     22: /Users/work/futaba/FutaWatcher/log/slstage.log
+2019-03-10 10:30:00,664 INFO     Log                            get_line     26: None
+2019-03-10 10:30:00,664 INFO     main                           <module>     25: slstage.log
+2019-03-10 10:30:00,664 INFO     main                           <module>     26: [<RotatingFileHandler /Users/work/futaba/FutaWatcher/log/slstage.log (NOTSET)>]
+2019-03-10 10:30:00,664 INFO     main                           <module>     27: None
+2019-03-10 10:30:00,665 INFO     CheckThread                    first        26: None
+2019-03-10 10:30:00,665 INFO     CheckThread                    first        28: Start Search Thread
+2019-03-10 10:30:00,665 INFO     ServerUI                       SearchThread   25: slstage.log : s.png
+2019-03-10 10:30:13,958 INFO     GetCatalogImages               get_catalog   84: success
+2019-03-10 10:30:13,958 INFO     TempleteMatching               judge_matching   87: /Users/work/futaba/FutaWatcher/.seed/s.png
+2019-03-10 10:30:19,313 INFO     main                           <module>     32: None
+2019-03-10 10:30:19,313 INFO     CheckThread                    finish       39: There is no thread in Catalog.
+2019-03-10 10:30:19,313 INFO     CheckThread                    finish       40: None
+2019-03-10 10:30:19,313 INFO     logging_config                 change_handler   37: change
+2019-03-10 10:30:19,313 INFO     logging_config                 change_handler   39: <RotatingFileHandler /Users/work/futaba/FutaWatcher/log/slstage.log (NOTSET)>
+2019-03-10 10:30:19,314 INFO     Log                            get_line     22: /Users/work/futaba/FutaWatcher/log/Imgtoon.log
+2019-03-10 10:30:19,315 INFO     Log                            get_line     26: None
+2019-03-10 10:30:19,315 INFO     main                           <module>     25: Imgtoon.log
+2019-03-10 10:30:19,315 INFO     main                           <module>     26: [<RotatingFileHandler /Users/work/futaba/FutaWatcher/log/Imgtoon.log (NOTSET)>]
+2019-03-10 10:30:19,315 INFO     main                           <module>     27: None
+2019-03-10 10:30:19,316 INFO     CheckThread                    first        26: None
+2019-03-10 10:30:19,316 INFO     CheckThread                    first        28: Start Search Thread
+2019-03-10 10:30:19,316 INFO     ServerUI                       SearchThread   25: Imgtoon.log : ink.png
+2019-03-10 10:30:30,491 INFO     GetCatalogImages               get_catalog   84: success
+2019-03-10 10:30:30,491 INFO     TempleteMatching               judge_matching   87: /Users/work/futaba/FutaWatcher/.seed/ink.png
+2019-03-10 10:30:34,923 INFO     main                           <module>     32: None
+2019-03-10 10:30:34,924 INFO     CheckThread                    finish       39: There is no thread in Catalog.
+2019-03-10 10:30:34,924 INFO     CheckThread                    finish       40: None
+2019-03-10 10:31:01,527 INFO     logging_config                 change_handler   37: change
+2019-03-10 10:31:01,528 INFO     Log                            get_line     22: /Users/work/futaba/FutaWatcher/log/slstage.log
+2019-03-10 10:31:01,529 INFO     Log                            get_line     26: None
+2019-03-10 10:31:01,529 INFO     main                           <module>     25: slstage.log
+2019-03-10 10:31:01,529 INFO     main                           <module>     26: [<RotatingFileHandler /Users/work/futaba/FutaWatcher/log/slstage.log (NOTSET)>]
+2019-03-10 10:31:01,529 INFO     main                           <module>     27: None
+2019-03-10 10:31:01,529 INFO     CheckThread                    first        26: None
+2019-03-10 10:31:01,529 INFO     CheckThread                    first        28: Start Search Thread
+2019-03-10 10:31:01,529 INFO     ServerUI                       SearchThread   25: slstage.log : s.png
+2019-03-10 10:31:13,300 INFO     GetCatalogImages               get_catalog   84: success
+2019-03-10 10:31:13,301 INFO     TempleteMatching               judge_matching   87: /Users/work/futaba/FutaWatcher/.seed/s.png
+2019-03-10 10:31:20,705 INFO     main                           <module>     32: None
+2019-03-10 10:31:20,705 INFO     CheckThread                    finish       39: There is no thread in Catalog.
+2019-03-10 10:31:20,706 INFO     CheckThread                    finish       40: None
+2019-03-10 10:31:20,706 INFO     logging_config                 change_handler   37: change
+2019-03-10 10:31:20,706 INFO     logging_config                 change_handler   39: <RotatingFileHandler /Users/work/futaba/FutaWatcher/log/slstage.log (NOTSET)>
+2019-03-10 10:31:20,706 INFO     Log                            get_line     22: /Users/work/futaba/FutaWatcher/log/Imgtoon.log
+2019-03-10 10:31:20,707 INFO     Log                            get_line     26: None
+2019-03-10 10:31:20,708 INFO     main                           <module>     25: Imgtoon.log
+2019-03-10 10:31:20,708 INFO     main                           <module>     26: [<RotatingFileHandler /Users/work/futaba/FutaWatcher/log/Imgtoon.log (NOTSET)>]
+2019-03-10 10:31:20,708 INFO     main                           <module>     27: None
+2019-03-10 10:31:20,708 INFO     CheckThread                    first        26: None
+2019-03-10 10:31:20,708 INFO     CheckThread                    first        28: Start Search Thread
+2019-03-10 10:31:20,708 INFO     ServerUI                       SearchThread   25: Imgtoon.log : ink.png
+2019-03-10 10:31:31,318 INFO     GetCatalogImages               get_catalog   84: success
+2019-03-10 10:31:31,318 INFO     TempleteMatching               judge_matching   87: /Users/work/futaba/FutaWatcher/.seed/ink.png
+2019-03-10 10:31:37,559 INFO     main                           <module>     32: None
+2019-03-10 10:31:37,560 INFO     CheckThread                    finish       39: There is no thread in Catalog.
+2019-03-10 10:31:37,560 INFO     CheckThread                    finish       40: None
+2019-03-10 10:32:01,272 INFO     logging_config                 change_handler   37: change
+2019-03-10 10:32:01,272 INFO     Log                            get_line     22: /Users/work/futaba/FutaWatcher/log/slstage.log
+2019-03-10 10:32:01,273 INFO     Log                            get_line     26: None
+2019-03-10 10:32:01,274 INFO     main                           <module>     25: slstage.log
+2019-03-10 10:32:01,274 INFO     main                           <module>     26: [<RotatingFileHandler /Users/work/futaba/FutaWatcher/log/slstage.log (NOTSET)>]
+2019-03-10 10:32:01,275 INFO     main                           <module>     27: None
+2019-03-10 10:32:01,275 INFO     CheckThread                    first        26: None
+2019-03-10 10:32:01,275 INFO     CheckThread                    first        28: Start Search Thread
+2019-03-10 10:32:01,275 INFO     ServerUI                       SearchThread   25: slstage.log : s.png
+2019-03-10 10:32:13,226 INFO     GetCatalogImages               get_catalog   84: success
+2019-03-10 10:32:13,226 INFO     TempleteMatching               judge_matching   87: /Users/work/futaba/FutaWatcher/.seed/s.png
+2019-03-10 10:32:17,894 INFO     main                           <module>     32: None
+2019-03-10 10:32:17,895 INFO     CheckThread                    finish       39: There is no thread in Catalog.
+2019-03-10 10:32:17,895 INFO     CheckThread                    finish       40: None
+2019-03-10 10:32:17,895 INFO     logging_config                 change_handler   37: change
+2019-03-10 10:32:17,895 INFO     logging_config                 change_handler   39: <RotatingFileHandler /Users/work/futaba/FutaWatcher/log/slstage.log (NOTSET)>
+2019-03-10 10:32:17,896 INFO     Log                            get_line     22: /Users/work/futaba/FutaWatcher/log/Imgtoon.log
+2019-03-10 10:32:17,897 INFO     Log                            get_line     26: None
+2019-03-10 10:32:17,897 INFO     main                           <module>     25: Imgtoon.log
+2019-03-10 10:32:17,897 INFO     main                           <module>     26: [<RotatingFileHandler /Users/work/futaba/FutaWatcher/log/Imgtoon.log (NOTSET)>]
+2019-03-10 10:32:17,897 INFO     main                           <module>     27: None
+2019-03-10 10:32:17,897 INFO     CheckThread                    first        26: None
+2019-03-10 10:32:17,897 INFO     CheckThread                    first        28: Start Search Thread
+2019-03-10 10:32:17,897 INFO     ServerUI                       SearchThread   25: Imgtoon.log : ink.png
+2019-03-10 10:32:29,472 INFO     GetCatalogImages               get_catalog   84: success
+2019-03-10 10:32:29,473 INFO     TempleteMatching               judge_matching   87: /Users/work/futaba/FutaWatcher/.seed/ink.png
+2019-03-10 10:32:34,044 INFO     main                           <module>     32: None
+2019-03-10 10:32:34,045 INFO     CheckThread                    finish       39: There is no thread in Catalog.
+2019-03-10 10:32:34,045 INFO     CheckThread                    finish       40: None
+2019-03-10 10:33:00,659 INFO     logging_config                 change_handler   37: change
+2019-03-10 10:33:00,659 INFO     Log                            get_line     22: /Users/work/futaba/FutaWatcher/log/slstage.log
+2019-03-10 10:33:00,660 INFO     Log                            get_line     26: None
+2019-03-10 10:33:00,660 INFO     main                           <module>     25: slstage.log
+2019-03-10 10:33:00,660 INFO     main                           <module>     26: [<RotatingFileHandler /Users/work/futaba/FutaWatcher/log/slstage.log (NOTSET)>]
+2019-03-10 10:33:00,660 INFO     main                           <module>     27: None
+2019-03-10 10:33:00,660 INFO     CheckThread                    first        26: None
+2019-03-10 10:33:00,660 INFO     CheckThread                    first        28: Start Search Thread
+2019-03-10 10:33:00,661 INFO     ServerUI                       SearchThread   25: slstage.log : s.png
+2019-03-10 10:33:14,046 INFO     GetCatalogImages               get_catalog   84: success
+2019-03-10 10:33:14,047 INFO     TempleteMatching               judge_matching   87: /Users/work/futaba/FutaWatcher/.seed/s.png
+2019-03-10 10:33:19,485 INFO     main                           <module>     32: None
+2019-03-10 10:33:19,486 INFO     CheckThread                    finish       39: There is no thread in Catalog.
+2019-03-10 10:33:19,486 INFO     CheckThread                    finish       40: None
+2019-03-10 10:33:19,486 INFO     logging_config                 change_handler   37: change
+2019-03-10 10:33:19,486 INFO     logging_config                 change_handler   39: <RotatingFileHandler /Users/work/futaba/FutaWatcher/log/slstage.log (NOTSET)>
+2019-03-10 10:33:19,487 INFO     Log                            get_line     22: /Users/work/futaba/FutaWatcher/log/Imgtoon.log
+2019-03-10 10:33:19,488 INFO     Log                            get_line     26: None
+2019-03-10 10:33:19,488 INFO     main                           <module>     25: Imgtoon.log
+2019-03-10 10:33:19,488 INFO     main                           <module>     26: [<RotatingFileHandler /Users/work/futaba/FutaWatcher/log/Imgtoon.log (NOTSET)>]
+2019-03-10 10:33:19,488 INFO     main                           <module>     27: None
+2019-03-10 10:33:19,488 INFO     CheckThread                    first        26: None
+2019-03-10 10:33:19,489 INFO     CheckThread                    first        28: Start Search Thread
+2019-03-10 10:33:19,489 INFO     ServerUI                       SearchThread   25: Imgtoon.log : ink.png
+2019-03-10 10:33:31,461 INFO     GetCatalogImages               get_catalog   84: success
+2019-03-10 10:33:31,461 INFO     TempleteMatching               judge_matching   87: /Users/work/futaba/FutaWatcher/.seed/ink.png
+2019-03-10 10:33:35,787 INFO     main                           <module>     32: None
+2019-03-10 10:33:35,787 INFO     CheckThread                    finish       39: There is no thread in Catalog.
+2019-03-10 10:33:35,787 INFO     CheckThread                    finish       40: None
+2019-03-10 10:34:01,371 INFO     logging_config                 change_handler   37: change
+2019-03-10 10:34:01,371 INFO     Log                            get_line     22: /Users/work/futaba/FutaWatcher/log/slstage.log
+2019-03-10 10:34:01,372 INFO     Log                            get_line     26: None
+2019-03-10 10:34:01,373 INFO     main                           <module>     25: slstage.log
+2019-03-10 10:34:01,373 INFO     main                           <module>     26: [<RotatingFileHandler /Users/work/futaba/FutaWatcher/log/slstage.log (NOTSET)>]
+2019-03-10 10:34:01,373 INFO     main                           <module>     27: None
+2019-03-10 10:34:01,373 INFO     CheckThread                    first        26: None
+2019-03-10 10:34:01,373 INFO     CheckThread                    first        28: Start Search Thread
+2019-03-10 10:34:01,374 INFO     ServerUI                       SearchThread   25: slstage.log : s.png
+2019-03-10 10:34:12,433 INFO     GetCatalogImages               get_catalog   84: success
+2019-03-10 10:34:12,433 INFO     TempleteMatching               judge_matching   87: /Users/work/futaba/FutaWatcher/.seed/s.png
+2019-03-10 10:34:15,668 INFO     main                           <module>     32: None
+2019-03-10 10:34:15,669 INFO     CheckThread                    finish       39: There is no thread in Catalog.
+2019-03-10 10:34:15,669 INFO     CheckThread                    finish       40: None
+2019-03-10 10:34:15,669 INFO     logging_config                 change_handler   37: change
+2019-03-10 10:34:15,669 INFO     logging_config                 change_handler   39: <RotatingFileHandler /Users/work/futaba/FutaWatcher/log/slstage.log (NOTSET)>
+2019-03-10 10:34:15,669 INFO     Log                            get_line     22: /Users/work/futaba/FutaWatcher/log/Imgtoon.log
+2019-03-10 10:34:15,671 INFO     Log                            get_line     26: None
+2019-03-10 10:34:15,671 INFO     main                           <module>     25: Imgtoon.log
+2019-03-10 10:34:15,671 INFO     main                           <module>     26: [<RotatingFileHandler /Users/work/futaba/FutaWatcher/log/Imgtoon.log (NOTSET)>]
+2019-03-10 10:34:15,671 INFO     main                           <module>     27: None
+2019-03-10 10:34:15,671 INFO     CheckThread                    first        26: None
+2019-03-10 10:34:15,671 INFO     CheckThread                    first        28: Start Search Thread
+2019-03-10 10:34:15,671 INFO     ServerUI                       SearchThread   25: Imgtoon.log : ink.png
+2019-03-10 10:34:26,481 INFO     GetCatalogImages               get_catalog   84: success
+2019-03-10 10:34:26,482 INFO     TempleteMatching               judge_matching   87: /Users/work/futaba/FutaWatcher/.seed/ink.png
+2019-03-10 10:34:29,913 INFO     main                           <module>     32: None
+2019-03-10 10:34:29,914 INFO     CheckThread                    finish       39: There is no thread in Catalog.
+2019-03-10 10:34:29,914 INFO     CheckThread                    finish       40: None
+2019-03-10 10:35:01,480 INFO     logging_config                 change_handler   37: change
+2019-03-10 10:35:01,480 INFO     Log                            get_line     22: /Users/work/futaba/FutaWatcher/log/slstage.log
+2019-03-10 10:35:01,481 INFO     Log                            get_line     26: None
+2019-03-10 10:35:01,481 INFO     main                           <module>     25: slstage.log
+2019-03-10 10:35:01,481 INFO     main                           <module>     26: [<RotatingFileHandler /Users/work/futaba/FutaWatcher/log/slstage.log (NOTSET)>]
+2019-03-10 10:35:01,482 INFO     main                           <module>     27: None
+2019-03-10 10:35:01,482 INFO     CheckThread                    first        26: None
+2019-03-10 10:35:01,482 INFO     CheckThread                    first        28: Start Search Thread
+2019-03-10 10:35:01,482 INFO     ServerUI                       SearchThread   25: slstage.log : s.png
+2019-03-10 10:35:14,375 INFO     GetCatalogImages               get_catalog   84: success
+2019-03-10 10:35:14,376 INFO     TempleteMatching               judge_matching   87: /Users/work/futaba/FutaWatcher/.seed/s.png
+2019-03-10 10:35:17,617 INFO     main                           <module>     32: None
+2019-03-10 10:35:17,618 INFO     CheckThread                    finish       39: There is no thread in Catalog.
+2019-03-10 10:35:17,618 INFO     CheckThread                    finish       40: None
+2019-03-10 10:35:17,618 INFO     logging_config                 change_handler   37: change
+2019-03-10 10:35:17,618 INFO     logging_config                 change_handler   39: <RotatingFileHandler /Users/work/futaba/FutaWatcher/log/slstage.log (NOTSET)>
+2019-03-10 10:35:17,619 INFO     Log                            get_line     22: /Users/work/futaba/FutaWatcher/log/Imgtoon.log
+2019-03-10 10:35:17,620 INFO     Log                            get_line     26: None
+2019-03-10 10:35:17,620 INFO     main                           <module>     25: Imgtoon.log
+2019-03-10 10:35:17,620 INFO     main                           <module>     26: [<RotatingFileHandler /Users/work/futaba/FutaWatcher/log/Imgtoon.log (NOTSET)>]
+2019-03-10 10:35:17,620 INFO     main                           <module>     27: None
+2019-03-10 10:35:17,620 INFO     CheckThread                    first        26: None
+2019-03-10 10:35:17,620 INFO     CheckThread                    first        28: Start Search Thread
+2019-03-10 10:35:17,620 INFO     ServerUI                       SearchThread   25: Imgtoon.log : ink.png
+2019-03-10 10:35:36,301 INFO     GetCatalogImages               get_catalog   84: success
+2019-03-10 10:35:36,301 INFO     TempleteMatching               judge_matching   87: /Users/work/futaba/FutaWatcher/.seed/ink.png
+2019-03-10 10:35:39,368 INFO     main                           <module>     32: None
+2019-03-10 10:35:39,368 INFO     CheckThread                    finish       39: There is no thread in Catalog.
+2019-03-10 10:35:39,369 INFO     CheckThread                    finish       40: None
+2019-03-10 10:36:01,130 INFO     logging_config                 change_handler   37: change
+2019-03-10 10:36:01,130 INFO     Log                            get_line     22: /Users/work/futaba/FutaWatcher/log/slstage.log
+2019-03-10 10:36:01,132 INFO     Log                            get_line     26: None
+2019-03-10 10:36:01,132 INFO     main                           <module>     25: slstage.log
+2019-03-10 10:36:01,132 INFO     main                           <module>     26: [<RotatingFileHandler /Users/work/futaba/FutaWatcher/log/slstage.log (NOTSET)>]
+2019-03-10 10:36:01,133 INFO     main                           <module>     27: None
+2019-03-10 10:36:01,133 INFO     CheckThread                    first        26: None
+2019-03-10 10:36:01,133 INFO     CheckThread                    first        28: Start Search Thread
+2019-03-10 10:36:01,133 INFO     ServerUI                       SearchThread   25: slstage.log : s.png
+2019-03-10 10:36:14,100 INFO     GetCatalogImages               get_catalog   84: success
+2019-03-10 10:36:14,100 INFO     TempleteMatching               judge_matching   87: /Users/work/futaba/FutaWatcher/.seed/s.png
+2019-03-10 10:36:17,171 INFO     main                           <module>     32: None
+2019-03-10 10:36:17,172 INFO     CheckThread                    finish       39: There is no thread in Catalog.
+2019-03-10 10:36:17,172 INFO     CheckThread                    finish       40: None
+2019-03-10 10:36:17,172 INFO     logging_config                 change_handler   37: change
+2019-03-10 10:36:17,172 INFO     logging_config                 change_handler   39: <RotatingFileHandler /Users/work/futaba/FutaWatcher/log/slstage.log (NOTSET)>
+2019-03-10 10:36:17,173 INFO     Log                            get_line     22: /Users/work/futaba/FutaWatcher/log/Imgtoon.log
+2019-03-10 10:36:17,174 INFO     Log                            get_line     26: None
+2019-03-10 10:36:17,174 INFO     main                           <module>     25: Imgtoon.log
+2019-03-10 10:36:17,174 INFO     main                           <module>     26: [<RotatingFileHandler /Users/work/futaba/FutaWatcher/log/Imgtoon.log (NOTSET)>]
+2019-03-10 10:36:17,174 INFO     main                           <module>     27: None
+2019-03-10 10:36:17,174 INFO     CheckThread                    first        26: None
+2019-03-10 10:36:17,174 INFO     CheckThread                    first        28: Start Search Thread
+2019-03-10 10:36:17,175 INFO     ServerUI                       SearchThread   25: Imgtoon.log : ink.png
+2019-03-10 10:36:27,825 INFO     GetCatalogImages               get_catalog   84: success
+2019-03-10 10:36:27,826 INFO     TempleteMatching               judge_matching   87: /Users/work/futaba/FutaWatcher/.seed/ink.png
+2019-03-10 10:36:30,722 INFO     main                           <module>     32: None
+2019-03-10 10:36:30,723 INFO     CheckThread                    finish       39: There is no thread in Catalog.
+2019-03-10 10:36:30,723 INFO     CheckThread                    finish       40: None
+2019-03-10 10:37:01,322 INFO     logging_config                 change_handler   37: change
+2019-03-10 10:37:01,323 INFO     Log                            get_line     22: /Users/work/futaba/FutaWatcher/log/slstage.log
+2019-03-10 10:37:01,324 INFO     Log                            get_line     26: None
+2019-03-10 10:37:01,324 INFO     main                           <module>     25: slstage.log
+2019-03-10 10:37:01,324 INFO     main                           <module>     26: [<RotatingFileHandler /Users/work/futaba/FutaWatcher/log/slstage.log (NOTSET)>]
+2019-03-10 10:37:01,324 INFO     main                           <module>     27: None
+2019-03-10 10:37:01,324 INFO     CheckThread                    first        26: None
+2019-03-10 10:37:01,324 INFO     CheckThread                    first        28: Start Search Thread
+2019-03-10 10:37:01,324 INFO     ServerUI                       SearchThread   25: slstage.log : s.png
+2019-03-10 10:37:12,026 INFO     GetCatalogImages               get_catalog   84: success
+2019-03-10 10:37:12,026 INFO     TempleteMatching               judge_matching   87: /Users/work/futaba/FutaWatcher/.seed/s.png
+2019-03-10 10:37:15,852 INFO     main                           <module>     32: None
+2019-03-10 10:37:15,853 INFO     CheckThread                    finish       39: There is no thread in Catalog.
+2019-03-10 10:37:15,853 INFO     CheckThread                    finish       40: None
+2019-03-10 10:37:15,853 INFO     logging_config                 change_handler   37: change
+2019-03-10 10:37:15,853 INFO     logging_config                 change_handler   39: <RotatingFileHandler /Users/work/futaba/FutaWatcher/log/slstage.log (NOTSET)>
+2019-03-10 10:37:15,854 INFO     Log                            get_line     22: /Users/work/futaba/FutaWatcher/log/Imgtoon.log
+2019-03-10 10:37:15,855 INFO     Log                            get_line     26: None
+2019-03-10 10:37:15,855 INFO     main                           <module>     25: Imgtoon.log
+2019-03-10 10:37:15,855 INFO     main                           <module>     26: [<RotatingFileHandler /Users/work/futaba/FutaWatcher/log/Imgtoon.log (NOTSET)>]
+2019-03-10 10:37:15,855 INFO     main                           <module>     27: None
+2019-03-10 10:37:15,855 INFO     CheckThread                    first        26: None
+2019-03-10 10:37:15,856 INFO     CheckThread                    first        28: Start Search Thread
+2019-03-10 10:37:15,856 INFO     ServerUI                       SearchThread   25: Imgtoon.log : ink.png
+2019-03-10 10:37:25,910 INFO     GetCatalogImages               get_catalog   84: success
+2019-03-10 10:37:25,911 INFO     TempleteMatching               judge_matching   87: /Users/work/futaba/FutaWatcher/.seed/ink.png
+2019-03-10 10:37:29,603 INFO     main                           <module>     32: None
+2019-03-10 10:37:29,603 INFO     CheckThread                    finish       39: There is no thread in Catalog.
+2019-03-10 10:37:29,603 INFO     CheckThread                    finish       40: None
+2019-03-10 10:38:01,200 INFO     logging_config                 change_handler   37: change
+2019-03-10 10:38:01,200 INFO     Log                            get_line     22: /Users/work/futaba/FutaWatcher/log/slstage.log
+2019-03-10 10:38:01,201 INFO     Log                            get_line     26: None
+2019-03-10 10:38:01,201 INFO     main                           <module>     25: slstage.log
+2019-03-10 10:38:01,201 INFO     main                           <module>     26: [<RotatingFileHandler /Users/work/futaba/FutaWatcher/log/slstage.log (NOTSET)>]
+2019-03-10 10:38:01,201 INFO     main                           <module>     27: None
+2019-03-10 10:38:01,202 INFO     CheckThread                    first        26: None
+2019-03-10 10:38:01,202 INFO     CheckThread                    first        28: Start Search Thread
+2019-03-10 10:38:01,202 INFO     ServerUI                       SearchThread   25: slstage.log : s.png
+2019-03-10 10:38:12,176 INFO     GetCatalogImages               get_catalog   84: success
+2019-03-10 10:38:12,176 INFO     TempleteMatching               judge_matching   87: /Users/work/futaba/FutaWatcher/.seed/s.png
+2019-03-10 10:38:15,726 INFO     main                           <module>     32: None
+2019-03-10 10:38:15,727 INFO     CheckThread                    finish       39: There is no thread in Catalog.
+2019-03-10 10:38:15,727 INFO     CheckThread                    finish       40: None
+2019-03-10 10:38:15,727 INFO     logging_config                 change_handler   37: change
+2019-03-10 10:38:15,727 INFO     logging_config                 change_handler   39: <RotatingFileHandler /Users/work/futaba/FutaWatcher/log/slstage.log (NOTSET)>
+2019-03-10 10:38:15,727 INFO     Log                            get_line     22: /Users/work/futaba/FutaWatcher/log/Imgtoon.log
+2019-03-10 10:38:15,728 INFO     Log                            get_line     26: None
+2019-03-10 10:38:15,729 INFO     main                           <module>     25: Imgtoon.log
+2019-03-10 10:38:15,729 INFO     main                           <module>     26: [<RotatingFileHandler /Users/work/futaba/FutaWatcher/log/Imgtoon.log (NOTSET)>]
+2019-03-10 10:38:15,729 INFO     main                           <module>     27: None
+2019-03-10 10:38:15,729 INFO     CheckThread                    first        26: None
+2019-03-10 10:38:15,729 INFO     CheckThread                    first        28: Start Search Thread
+2019-03-10 10:38:15,729 INFO     ServerUI                       SearchThread   25: Imgtoon.log : ink.png
+2019-03-10 10:38:26,271 INFO     GetCatalogImages               get_catalog   84: success
+2019-03-10 10:38:26,272 INFO     TempleteMatching               judge_matching   87: /Users/work/futaba/FutaWatcher/.seed/ink.png
+2019-03-10 10:38:31,456 INFO     main                           <module>     32: None
+2019-03-10 10:38:31,457 INFO     CheckThread                    finish       39: There is no thread in Catalog.
+2019-03-10 10:38:31,457 INFO     CheckThread                    finish       40: None
+2019-03-10 10:39:01,069 INFO     logging_config                 change_handler   37: change
+2019-03-10 10:39:01,069 INFO     Log                            get_line     22: /Users/work/futaba/FutaWatcher/log/slstage.log
+2019-03-10 10:39:01,070 INFO     Log                            get_line     26: None
+2019-03-10 10:39:01,070 INFO     main                           <module>     25: slstage.log
+2019-03-10 10:39:01,070 INFO     main                           <module>     26: [<RotatingFileHandler /Users/work/futaba/FutaWatcher/log/slstage.log (NOTSET)>]
+2019-03-10 10:39:01,070 INFO     main                           <module>     27: None
+2019-03-10 10:39:01,071 INFO     CheckThread                    first        26: None
+2019-03-10 10:39:01,071 INFO     CheckThread                    first        28: Start Search Thread
+2019-03-10 10:39:01,071 INFO     ServerUI                       SearchThread   25: slstage.log : s.png
+2019-03-10 10:39:15,079 INFO     GetCatalogImages               get_catalog   84: success
+2019-03-10 10:39:15,079 INFO     TempleteMatching               judge_matching   87: /Users/work/futaba/FutaWatcher/.seed/s.png
+2019-03-10 10:39:19,003 INFO     main                           <module>     32: None
+2019-03-10 10:39:19,004 INFO     CheckThread                    finish       39: There is no thread in Catalog.
+2019-03-10 10:39:19,004 INFO     CheckThread                    finish       40: None
+2019-03-10 10:39:19,004 INFO     logging_config                 change_handler   37: change
+2019-03-10 10:39:19,004 INFO     logging_config                 change_handler   39: <RotatingFileHandler /Users/work/futaba/FutaWatcher/log/slstage.log (NOTSET)>
+2019-03-10 10:39:19,005 INFO     Log                            get_line     22: /Users/work/futaba/FutaWatcher/log/Imgtoon.log
+2019-03-10 10:39:19,006 INFO     Log                            get_line     26: None
+2019-03-10 10:39:19,006 INFO     main                           <module>     25: Imgtoon.log
+2019-03-10 10:39:19,006 INFO     main                           <module>     26: [<RotatingFileHandler /Users/work/futaba/FutaWatcher/log/Imgtoon.log (NOTSET)>]
+2019-03-10 10:39:19,006 INFO     main                           <module>     27: None
+2019-03-10 10:39:19,006 INFO     CheckThread                    first        26: None
+2019-03-10 10:39:19,006 INFO     CheckThread                    first        28: Start Search Thread
+2019-03-10 10:39:19,006 INFO     ServerUI                       SearchThread   25: Imgtoon.log : ink.png
+2019-03-10 10:39:30,152 INFO     GetCatalogImages               get_catalog   84: success
+2019-03-10 10:39:30,152 INFO     TempleteMatching               judge_matching   87: /Users/work/futaba/FutaWatcher/.seed/ink.png
+2019-03-10 10:39:34,132 INFO     main                           <module>     32: None
+2019-03-10 10:39:34,132 INFO     CheckThread                    finish       39: There is no thread in Catalog.
+2019-03-10 10:39:34,133 INFO     CheckThread                    finish       40: None
+2019-03-10 10:40:00,883 INFO     logging_config                 change_handler   37: change
+2019-03-10 10:40:00,883 INFO     Log                            get_line     22: /Users/work/futaba/FutaWatcher/log/slstage.log
+2019-03-10 10:40:00,884 INFO     Log                            get_line     26: None
+2019-03-10 10:40:00,884 INFO     main                           <module>     25: slstage.log
+2019-03-10 10:40:00,884 INFO     main                           <module>     26: [<RotatingFileHandler /Users/work/futaba/FutaWatcher/log/slstage.log (NOTSET)>]
+2019-03-10 10:40:00,884 INFO     main                           <module>     27: None
+2019-03-10 10:40:00,884 INFO     CheckThread                    first        26: None
+2019-03-10 10:40:00,885 INFO     CheckThread                    first        28: Start Search Thread
+2019-03-10 10:40:00,885 INFO     ServerUI                       SearchThread   25: slstage.log : s.png
+2019-03-10 10:40:15,875 INFO     GetCatalogImages               get_catalog   84: success
+2019-03-10 10:40:15,877 INFO     TempleteMatching               judge_matching   87: /Users/work/futaba/FutaWatcher/.seed/s.png
+2019-03-10 10:40:21,486 INFO     main                           <module>     32: None
+2019-03-10 10:40:21,486 INFO     CheckThread                    finish       39: There is no thread in Catalog.
+2019-03-10 10:40:21,486 INFO     CheckThread                    finish       40: None
+2019-03-10 10:40:21,487 INFO     logging_config                 change_handler   37: change
+2019-03-10 10:40:21,487 INFO     logging_config                 change_handler   39: <RotatingFileHandler /Users/work/futaba/FutaWatcher/log/slstage.log (NOTSET)>
+2019-03-10 10:40:21,487 INFO     Log                            get_line     22: /Users/work/futaba/FutaWatcher/log/Imgtoon.log
+2019-03-10 10:40:21,488 INFO     Log                            get_line     26: None
+2019-03-10 10:40:21,489 INFO     main                           <module>     25: Imgtoon.log
+2019-03-10 10:40:21,489 INFO     main                           <module>     26: [<RotatingFileHandler /Users/work/futaba/FutaWatcher/log/Imgtoon.log (NOTSET)>]
+2019-03-10 10:40:21,489 INFO     main                           <module>     27: None
+2019-03-10 10:40:21,489 INFO     CheckThread                    first        26: None
+2019-03-10 10:40:21,489 INFO     CheckThread                    first        28: Start Search Thread
+2019-03-10 10:40:21,489 INFO     ServerUI                       SearchThread   25: Imgtoon.log : ink.png
+2019-03-10 10:40:32,468 INFO     GetCatalogImages               get_catalog   84: success
+2019-03-10 10:40:32,469 INFO     TempleteMatching               judge_matching   87: /Users/work/futaba/FutaWatcher/.seed/ink.png
+2019-03-10 10:40:38,794 INFO     main                           <module>     32: None
+2019-03-10 10:40:38,794 INFO     CheckThread                    finish       39: There is no thread in Catalog.
+2019-03-10 10:40:38,794 INFO     CheckThread                    finish       40: None
+2019-03-10 10:41:01,725 INFO     logging_config                 change_handler   37: change
+2019-03-10 10:41:01,725 INFO     Log                            get_line     22: /Users/work/futaba/FutaWatcher/log/slstage.log
+2019-03-10 10:41:01,728 INFO     Log                            get_line     26: None
+2019-03-10 10:41:01,728 INFO     main                           <module>     25: slstage.log
+2019-03-10 10:41:01,728 INFO     main                           <module>     26: [<RotatingFileHandler /Users/work/futaba/FutaWatcher/log/slstage.log (NOTSET)>]
+2019-03-10 10:41:01,728 INFO     main                           <module>     27: None
+2019-03-10 10:41:01,728 INFO     CheckThread                    first        26: None
+2019-03-10 10:41:01,728 INFO     CheckThread                    first        28: Start Search Thread
+2019-03-10 10:41:01,728 INFO     ServerUI                       SearchThread   25: slstage.log : s.png
+2019-03-10 10:41:14,201 INFO     GetCatalogImages               get_catalog   84: success
+2019-03-10 10:41:14,202 INFO     TempleteMatching               judge_matching   87: /Users/work/futaba/FutaWatcher/.seed/s.png
+2019-03-10 10:41:21,895 INFO     main                           <module>     32: None
+2019-03-10 10:41:21,895 INFO     CheckThread                    finish       39: There is no thread in Catalog.
+2019-03-10 10:41:21,896 INFO     CheckThread                    finish       40: None
+2019-03-10 10:41:21,896 INFO     logging_config                 change_handler   37: change
+2019-03-10 10:41:21,896 INFO     logging_config                 change_handler   39: <RotatingFileHandler /Users/work/futaba/FutaWatcher/log/slstage.log (NOTSET)>
+2019-03-10 10:41:21,896 INFO     Log                            get_line     22: /Users/work/futaba/FutaWatcher/log/Imgtoon.log
+2019-03-10 10:41:21,899 INFO     Log                            get_line     26: None
+2019-03-10 10:41:21,899 INFO     main                           <module>     25: Imgtoon.log
+2019-03-10 10:41:21,899 INFO     main                           <module>     26: [<RotatingFileHandler /Users/work/futaba/FutaWatcher/log/Imgtoon.log (NOTSET)>]
+2019-03-10 10:41:21,899 INFO     main                           <module>     27: None
+2019-03-10 10:41:21,899 INFO     CheckThread                    first        26: None
+2019-03-10 10:41:21,899 INFO     CheckThread                    first        28: Start Search Thread
+2019-03-10 10:41:21,899 INFO     ServerUI                       SearchThread   25: Imgtoon.log : ink.png
+2019-03-10 10:41:33,428 INFO     GetCatalogImages               get_catalog   84: success
+2019-03-10 10:41:33,428 INFO     TempleteMatching               judge_matching   87: /Users/work/futaba/FutaWatcher/.seed/ink.png
+2019-03-10 10:41:37,590 INFO     main                           <module>     32: None
+2019-03-10 10:41:37,591 INFO     CheckThread                    finish       39: There is no thread in Catalog.
+2019-03-10 10:41:37,591 INFO     CheckThread                    finish       40: None
+2019-03-10 10:42:01,532 INFO     logging_config                 change_handler   37: change
+2019-03-10 10:42:01,532 INFO     Log                            get_line     22: /Users/work/futaba/FutaWatcher/log/slstage.log
+2019-03-10 10:42:01,535 INFO     Log                            get_line     26: None
+2019-03-10 10:42:01,535 INFO     main                           <module>     25: slstage.log
+2019-03-10 10:42:01,535 INFO     main                           <module>     26: [<RotatingFileHandler /Users/work/futaba/FutaWatcher/log/slstage.log (NOTSET)>]
+2019-03-10 10:42:01,536 INFO     main                           <module>     27: None
+2019-03-10 10:42:01,536 INFO     CheckThread                    first        26: None
+2019-03-10 10:42:01,536 INFO     CheckThread                    first        28: Start Search Thread
+2019-03-10 10:42:01,536 INFO     ServerUI                       SearchThread   25: slstage.log : s.png
+2019-03-10 10:42:13,322 INFO     GetCatalogImages               get_catalog   84: success
+2019-03-10 10:42:13,328 INFO     TempleteMatching               judge_matching   87: /Users/work/futaba/FutaWatcher/.seed/s.png
+2019-03-10 10:42:23,890 INFO     main                           <module>     32: None
+2019-03-10 10:42:23,891 INFO     CheckThread                    finish       39: There is no thread in Catalog.
+2019-03-10 10:42:23,891 INFO     CheckThread                    finish       40: None
+2019-03-10 10:42:23,891 INFO     logging_config                 change_handler   37: change
+2019-03-10 10:42:23,891 INFO     logging_config                 change_handler   39: <RotatingFileHandler /Users/work/futaba/FutaWatcher/log/slstage.log (NOTSET)>
+2019-03-10 10:42:23,891 INFO     Log                            get_line     22: /Users/work/futaba/FutaWatcher/log/Imgtoon.log
+2019-03-10 10:42:23,894 INFO     Log                            get_line     26: None
+2019-03-10 10:42:23,894 INFO     main                           <module>     25: Imgtoon.log
+2019-03-10 10:42:23,894 INFO     main                           <module>     26: [<RotatingFileHandler /Users/work/futaba/FutaWatcher/log/Imgtoon.log (NOTSET)>]
+2019-03-10 10:42:23,894 INFO     main                           <module>     27: None
+2019-03-10 10:42:23,894 INFO     CheckThread                    first        26: None
+2019-03-10 10:42:23,894 INFO     CheckThread                    first        28: Start Search Thread
+2019-03-10 10:42:23,894 INFO     ServerUI                       SearchThread   25: Imgtoon.log : ink.png
+2019-03-10 10:42:37,413 INFO     GetCatalogImages               get_catalog   84: success
+2019-03-10 10:42:37,414 INFO     TempleteMatching               judge_matching   87: /Users/work/futaba/FutaWatcher/.seed/ink.png
+2019-03-10 10:42:41,047 INFO     main                           <module>     32: None
+2019-03-10 10:42:41,047 INFO     CheckThread                    finish       39: There is no thread in Catalog.
+2019-03-10 10:42:41,047 INFO     CheckThread                    finish       40: None
+2019-03-10 10:43:02,341 INFO     logging_config                 change_handler   37: change
+2019-03-10 10:43:02,342 INFO     Log                            get_line     22: /Users/work/futaba/FutaWatcher/log/slstage.log
+2019-03-10 10:43:02,345 INFO     Log                            get_line     26: None
+2019-03-10 10:43:02,345 INFO     main                           <module>     25: slstage.log
+2019-03-10 10:43:02,345 INFO     main                           <module>     26: [<RotatingFileHandler /Users/work/futaba/FutaWatcher/log/slstage.log (NOTSET)>]
+2019-03-10 10:43:02,345 INFO     main                           <module>     27: None
+2019-03-10 10:43:02,345 INFO     CheckThread                    first        26: None
+2019-03-10 10:43:02,345 INFO     CheckThread                    first        28: Start Search Thread
+2019-03-10 10:43:02,345 INFO     ServerUI                       SearchThread   25: slstage.log : s.png
+2019-03-10 10:43:16,948 INFO     GetCatalogImages               get_catalog   84: success
+2019-03-10 10:43:16,949 INFO     TempleteMatching               judge_matching   87: /Users/work/futaba/FutaWatcher/.seed/s.png
+2019-03-10 10:43:23,969 INFO     main                           <module>     32: None
+2019-03-10 10:43:23,970 INFO     CheckThread                    finish       39: There is no thread in Catalog.
+2019-03-10 10:43:23,971 INFO     CheckThread                    finish       40: None
+2019-03-10 10:43:23,971 INFO     logging_config                 change_handler   37: change
+2019-03-10 10:43:23,971 INFO     logging_config                 change_handler   39: <RotatingFileHandler /Users/work/futaba/FutaWatcher/log/slstage.log (NOTSET)>
+2019-03-10 10:43:23,972 INFO     Log                            get_line     22: /Users/work/futaba/FutaWatcher/log/Imgtoon.log
+2019-03-10 10:43:23,975 INFO     Log                            get_line     26: None
+2019-03-10 10:43:23,975 INFO     main                           <module>     25: Imgtoon.log
+2019-03-10 10:43:23,975 INFO     main                           <module>     26: [<RotatingFileHandler /Users/work/futaba/FutaWatcher/log/Imgtoon.log (NOTSET)>]
+2019-03-10 10:43:23,975 INFO     main                           <module>     27: None
+2019-03-10 10:43:23,975 INFO     CheckThread                    first        26: None
+2019-03-10 10:43:23,976 INFO     CheckThread                    first        28: Start Search Thread
+2019-03-10 10:43:23,976 INFO     ServerUI                       SearchThread   25: Imgtoon.log : ink.png
+2019-03-10 10:43:36,165 INFO     GetCatalogImages               get_catalog   84: success
+2019-03-10 10:43:36,165 INFO     TempleteMatching               judge_matching   87: /Users/work/futaba/FutaWatcher/.seed/ink.png
+2019-03-10 10:43:42,616 INFO     main                           <module>     32: None
+2019-03-10 10:43:42,617 INFO     CheckThread                    finish       39: There is no thread in Catalog.
+2019-03-10 10:43:42,617 INFO     CheckThread                    finish       40: None
+2019-03-10 10:44:02,907 INFO     logging_config                 change_handler   37: change
+2019-03-10 10:44:02,907 INFO     Log                            get_line     22: /Users/work/futaba/FutaWatcher/log/slstage.log
+2019-03-10 10:44:02,929 INFO     Log                            get_line     26: None
+2019-03-10 10:44:02,930 INFO     main                           <module>     25: slstage.log
+2019-03-10 10:44:02,931 INFO     main                           <module>     26: [<RotatingFileHandler /Users/work/futaba/FutaWatcher/log/slstage.log (NOTSET)>]
+2019-03-10 10:44:02,932 INFO     main                           <module>     27: None
+2019-03-10 10:44:02,933 INFO     CheckThread                    first        26: None
+2019-03-10 10:44:02,933 INFO     CheckThread                    first        28: Start Search Thread
+2019-03-10 10:44:02,938 INFO     ServerUI                       SearchThread   25: slstage.log : s.png
+2019-03-10 10:44:15,905 INFO     GetCatalogImages               get_catalog   84: success
+2019-03-10 10:44:15,907 INFO     TempleteMatching               judge_matching   87: /Users/work/futaba/FutaWatcher/.seed/s.png
+2019-03-10 10:44:28,816 INFO     main                           <module>     32: None
+2019-03-10 10:44:28,822 INFO     CheckThread                    finish       39: There is no thread in Catalog.
+2019-03-10 10:44:28,822 INFO     CheckThread                    finish       40: None
+2019-03-10 10:44:28,823 INFO     logging_config                 change_handler   37: change
+2019-03-10 10:44:28,823 INFO     logging_config                 change_handler   39: <RotatingFileHandler /Users/work/futaba/FutaWatcher/log/slstage.log (NOTSET)>
+2019-03-10 10:44:28,825 INFO     Log                            get_line     22: /Users/work/futaba/FutaWatcher/log/Imgtoon.log
+2019-03-10 10:44:28,828 INFO     Log                            get_line     26: None
+2019-03-10 10:44:28,828 INFO     main                           <module>     25: Imgtoon.log
+2019-03-10 10:44:28,828 INFO     main                           <module>     26: [<RotatingFileHandler /Users/work/futaba/FutaWatcher/log/Imgtoon.log (NOTSET)>]
+2019-03-10 10:44:28,828 INFO     main                           <module>     27: None
+2019-03-10 10:44:28,828 INFO     CheckThread                    first        26: None
+2019-03-10 10:44:28,829 INFO     CheckThread                    first        28: Start Search Thread
+2019-03-10 10:44:28,829 INFO     ServerUI                       SearchThread   25: Imgtoon.log : ink.png
+2019-03-10 10:44:39,884 INFO     GetCatalogImages               get_catalog   84: success
+2019-03-10 10:44:39,884 INFO     TempleteMatching               judge_matching   87: /Users/work/futaba/FutaWatcher/.seed/ink.png
+2019-03-10 10:44:45,652 INFO     main                           <module>     32: None
+2019-03-10 10:44:45,653 INFO     CheckThread                    finish       39: There is no thread in Catalog.
+2019-03-10 10:44:45,653 INFO     CheckThread                    finish       40: None
+2019-03-10 10:45:02,211 INFO     logging_config                 change_handler   37: change
+2019-03-10 10:45:02,211 INFO     Log                            get_line     22: /Users/work/futaba/FutaWatcher/log/slstage.log
+2019-03-10 10:45:02,213 INFO     Log                            get_line     26: None
+2019-03-10 10:45:02,213 INFO     main                           <module>     25: slstage.log
+2019-03-10 10:45:02,213 INFO     main                           <module>     26: [<RotatingFileHandler /Users/work/futaba/FutaWatcher/log/slstage.log (NOTSET)>]
+2019-03-10 10:45:02,213 INFO     main                           <module>     27: None
+2019-03-10 10:45:02,213 INFO     CheckThread                    first        26: None
+2019-03-10 10:45:02,213 INFO     CheckThread                    first        28: Start Search Thread
+2019-03-10 10:45:02,213 INFO     ServerUI                       SearchThread   25: slstage.log : s.png
+2019-03-10 10:45:13,822 INFO     GetCatalogImages               get_catalog   84: success
+2019-03-10 10:45:13,822 INFO     TempleteMatching               judge_matching   87: /Users/work/futaba/FutaWatcher/.seed/s.png
+2019-03-10 10:45:18,497 INFO     main                           <module>     32: None
+2019-03-10 10:45:18,497 INFO     CheckThread                    finish       39: There is no thread in Catalog.
+2019-03-10 10:45:18,497 INFO     CheckThread                    finish       40: None
+2019-03-10 10:45:18,497 INFO     logging_config                 change_handler   37: change
+2019-03-10 10:45:18,498 INFO     logging_config                 change_handler   39: <RotatingFileHandler /Users/work/futaba/FutaWatcher/log/slstage.log (NOTSET)>
+2019-03-10 10:45:18,498 INFO     Log                            get_line     22: /Users/work/futaba/FutaWatcher/log/Imgtoon.log
+2019-03-10 10:45:18,499 INFO     Log                            get_line     26: None
+2019-03-10 10:45:18,499 INFO     main                           <module>     25: Imgtoon.log
+2019-03-10 10:45:18,499 INFO     main                           <module>     26: [<RotatingFileHandler /Users/work/futaba/FutaWatcher/log/Imgtoon.log (NOTSET)>]
+2019-03-10 10:45:18,500 INFO     main                           <module>     27: None
+2019-03-10 10:45:18,500 INFO     CheckThread                    first        26: None
+2019-03-10 10:45:18,500 INFO     CheckThread                    first        28: Start Search Thread
+2019-03-10 10:45:18,500 INFO     ServerUI                       SearchThread   25: Imgtoon.log : ink.png
+2019-03-10 10:45:29,510 INFO     GetCatalogImages               get_catalog   84: success
+2019-03-10 10:45:29,511 INFO     TempleteMatching               judge_matching   87: /Users/work/futaba/FutaWatcher/.seed/ink.png
+2019-03-10 10:45:34,389 INFO     main                           <module>     32: None
+2019-03-10 10:45:34,389 INFO     CheckThread                    finish       39: There is no thread in Catalog.
+2019-03-10 10:45:34,390 INFO     CheckThread                    finish       40: None
+2019-03-10 10:46:01,818 INFO     logging_config                 change_handler   37: change
+2019-03-10 10:46:01,819 INFO     Log                            get_line     22: /Users/work/futaba/FutaWatcher/log/slstage.log
+2019-03-10 10:46:01,820 INFO     Log                            get_line     26: None
+2019-03-10 10:46:01,820 INFO     main                           <module>     25: slstage.log
+2019-03-10 10:46:01,821 INFO     main                           <module>     26: [<RotatingFileHandler /Users/work/futaba/FutaWatcher/log/slstage.log (NOTSET)>]
+2019-03-10 10:46:01,821 INFO     main                           <module>     27: None
+2019-03-10 10:46:01,821 INFO     CheckThread                    first        26: None
+2019-03-10 10:46:01,821 INFO     CheckThread                    first        28: Start Search Thread
+2019-03-10 10:46:01,821 INFO     ServerUI                       SearchThread   25: slstage.log : s.png
+2019-03-10 10:46:13,105 INFO     GetCatalogImages               get_catalog   84: success
+2019-03-10 10:46:13,105 INFO     TempleteMatching               judge_matching   87: /Users/work/futaba/FutaWatcher/.seed/s.png
+2019-03-10 10:46:19,251 INFO     main                           <module>     32: None
+2019-03-10 10:46:19,253 INFO     CheckThread                    finish       39: There is no thread in Catalog.
+2019-03-10 10:46:19,253 INFO     CheckThread                    finish       40: None
+2019-03-10 10:46:19,253 INFO     logging_config                 change_handler   37: change
+2019-03-10 10:46:19,253 INFO     logging_config                 change_handler   39: <RotatingFileHandler /Users/work/futaba/FutaWatcher/log/slstage.log (NOTSET)>
+2019-03-10 10:46:19,254 INFO     Log                            get_line     22: /Users/work/futaba/FutaWatcher/log/Imgtoon.log
+2019-03-10 10:46:19,257 INFO     Log                            get_line     26: None
+2019-03-10 10:46:19,257 INFO     main                           <module>     25: Imgtoon.log
+2019-03-10 10:46:19,258 INFO     main                           <module>     26: [<RotatingFileHandler /Users/work/futaba/FutaWatcher/log/Imgtoon.log (NOTSET)>]
+2019-03-10 10:46:19,258 INFO     main                           <module>     27: None
+2019-03-10 10:46:19,258 INFO     CheckThread                    first        26: None
+2019-03-10 10:46:19,259 INFO     CheckThread                    first        28: Start Search Thread
+2019-03-10 10:46:19,259 INFO     ServerUI                       SearchThread   25: Imgtoon.log : ink.png
+2019-03-10 10:46:30,584 INFO     GetCatalogImages               get_catalog   84: success
+2019-03-10 10:46:30,585 INFO     TempleteMatching               judge_matching   87: /Users/work/futaba/FutaWatcher/.seed/ink.png
+2019-03-10 10:46:34,278 INFO     main                           <module>     32: None
+2019-03-10 10:46:34,279 INFO     CheckThread                    finish       39: There is no thread in Catalog.
+2019-03-10 10:46:34,279 INFO     CheckThread                    finish       40: None
+2019-03-10 10:47:00,851 INFO     logging_config                 change_handler   37: change
+2019-03-10 10:47:00,852 INFO     Log                            get_line     22: /Users/work/futaba/FutaWatcher/log/slstage.log
+2019-03-10 10:47:00,853 INFO     Log                            get_line     26: None
+2019-03-10 10:47:00,853 INFO     main                           <module>     25: slstage.log
+2019-03-10 10:47:00,853 INFO     main                           <module>     26: [<RotatingFileHandler /Users/work/futaba/FutaWatcher/log/slstage.log (NOTSET)>]
+2019-03-10 10:47:00,853 INFO     main                           <module>     27: None
+2019-03-10 10:47:00,853 INFO     CheckThread                    first        26: None
+2019-03-10 10:47:00,853 INFO     CheckThread                    first        28: Start Search Thread
+2019-03-10 10:47:00,853 INFO     ServerUI                       SearchThread   25: slstage.log : s.png
+2019-03-10 10:47:12,017 INFO     GetCatalogImages               get_catalog   84: success
+2019-03-10 10:47:12,018 INFO     TempleteMatching               judge_matching   87: /Users/work/futaba/FutaWatcher/.seed/s.png
+2019-03-10 10:47:15,952 INFO     main                           <module>     32: None
+2019-03-10 10:47:15,952 INFO     CheckThread                    finish       39: There is no thread in Catalog.
+2019-03-10 10:47:15,952 INFO     CheckThread                    finish       40: None
+2019-03-10 10:47:15,953 INFO     logging_config                 change_handler   37: change
+2019-03-10 10:47:15,953 INFO     logging_config                 change_handler   39: <RotatingFileHandler /Users/work/futaba/FutaWatcher/log/slstage.log (NOTSET)>
+2019-03-10 10:47:15,953 INFO     Log                            get_line     22: /Users/work/futaba/FutaWatcher/log/Imgtoon.log
+2019-03-10 10:47:15,954 INFO     Log                            get_line     26: None
+2019-03-10 10:47:15,954 INFO     main                           <module>     25: Imgtoon.log
+2019-03-10 10:47:15,955 INFO     main                           <module>     26: [<RotatingFileHandler /Users/work/futaba/FutaWatcher/log/Imgtoon.log (NOTSET)>]
+2019-03-10 10:47:15,955 INFO     main                           <module>     27: None
+2019-03-10 10:47:15,955 INFO     CheckThread                    first        26: None
+2019-03-10 10:47:15,955 INFO     CheckThread                    first        28: Start Search Thread
+2019-03-10 10:47:15,955 INFO     ServerUI                       SearchThread   25: Imgtoon.log : ink.png
+2019-03-10 10:47:26,985 INFO     GetCatalogImages               get_catalog   84: success
+2019-03-10 10:47:26,985 INFO     TempleteMatching               judge_matching   87: /Users/work/futaba/FutaWatcher/.seed/ink.png
+2019-03-10 10:47:31,144 INFO     main                           <module>     32: None
+2019-03-10 10:47:31,145 INFO     CheckThread                    finish       39: There is no thread in Catalog.
+2019-03-10 10:47:31,145 INFO     CheckThread                    finish       40: None
+2019-03-10 10:48:00,813 INFO     logging_config                 change_handler   37: change
+2019-03-10 10:48:00,813 INFO     Log                            get_line     22: /Users/work/futaba/FutaWatcher/log/slstage.log
+2019-03-10 10:48:00,814 INFO     Log                            get_line     26: None
+2019-03-10 10:48:00,814 INFO     main                           <module>     25: slstage.log
+2019-03-10 10:48:00,814 INFO     main                           <module>     26: [<RotatingFileHandler /Users/work/futaba/FutaWatcher/log/slstage.log (NOTSET)>]
+2019-03-10 10:48:00,815 INFO     main                           <module>     27: None
+2019-03-10 10:48:00,815 INFO     CheckThread                    first        26: None
+2019-03-10 10:48:00,815 INFO     CheckThread                    first        28: Start Search Thread
+2019-03-10 10:48:00,815 INFO     ServerUI                       SearchThread   25: slstage.log : s.png
+2019-03-10 10:48:14,684 INFO     GetCatalogImages               get_catalog   84: success
+2019-03-10 10:48:14,684 INFO     TempleteMatching               judge_matching   87: /Users/work/futaba/FutaWatcher/.seed/s.png
+2019-03-10 10:48:18,931 INFO     main                           <module>     32: None
+2019-03-10 10:48:18,932 INFO     CheckThread                    finish       39: There is no thread in Catalog.
+2019-03-10 10:48:18,932 INFO     CheckThread                    finish       40: None
+2019-03-10 10:48:18,932 INFO     logging_config                 change_handler   37: change
+2019-03-10 10:48:18,932 INFO     logging_config                 change_handler   39: <RotatingFileHandler /Users/work/futaba/FutaWatcher/log/slstage.log (NOTSET)>
+2019-03-10 10:48:18,933 INFO     Log                            get_line     22: /Users/work/futaba/FutaWatcher/log/Imgtoon.log
+2019-03-10 10:48:18,934 INFO     Log                            get_line     26: None
+2019-03-10 10:48:18,934 INFO     main                           <module>     25: Imgtoon.log
+2019-03-10 10:48:18,934 INFO     main                           <module>     26: [<RotatingFileHandler /Users/work/futaba/FutaWatcher/log/Imgtoon.log (NOTSET)>]
+2019-03-10 10:48:18,934 INFO     main                           <module>     27: None
+2019-03-10 10:48:18,934 INFO     CheckThread                    first        26: None
+2019-03-10 10:48:18,934 INFO     CheckThread                    first        28: Start Search Thread
+2019-03-10 10:48:18,935 INFO     ServerUI                       SearchThread   25: Imgtoon.log : ink.png
+2019-03-10 10:48:30,396 INFO     GetCatalogImages               get_catalog   84: success
+2019-03-10 10:48:30,397 INFO     TempleteMatching               judge_matching   87: /Users/work/futaba/FutaWatcher/.seed/ink.png
+2019-03-10 10:48:34,126 INFO     main                           <module>     32: None
+2019-03-10 10:48:34,127 INFO     CheckThread                    finish       39: There is no thread in Catalog.
+2019-03-10 10:48:34,127 INFO     CheckThread                    finish       40: None
+2019-03-10 10:49:00,978 INFO     logging_config                 change_handler   37: change
+2019-03-10 10:49:00,978 INFO     Log                            get_line     22: /Users/work/futaba/FutaWatcher/log/slstage.log
+2019-03-10 10:49:00,979 INFO     Log                            get_line     26: None
+2019-03-10 10:49:00,980 INFO     main                           <module>     25: slstage.log
+2019-03-10 10:49:00,980 INFO     main                           <module>     26: [<RotatingFileHandler /Users/work/futaba/FutaWatcher/log/slstage.log (NOTSET)>]
+2019-03-10 10:49:00,980 INFO     main                           <module>     27: None
+2019-03-10 10:49:00,980 INFO     CheckThread                    first        26: None
+2019-03-10 10:49:00,980 INFO     CheckThread                    first        28: Start Search Thread
+2019-03-10 10:49:00,980 INFO     ServerUI                       SearchThread   25: slstage.log : s.png
+2019-03-10 10:49:12,626 INFO     GetCatalogImages               get_catalog   84: success
+2019-03-10 10:49:12,628 INFO     TempleteMatching               judge_matching   87: /Users/work/futaba/FutaWatcher/.seed/s.png
+2019-03-10 10:49:18,370 INFO     main                           <module>     32: None
+2019-03-10 10:49:18,371 INFO     CheckThread                    finish       39: There is no thread in Catalog.
+2019-03-10 10:49:18,371 INFO     CheckThread                    finish       40: None
+2019-03-10 10:49:18,371 INFO     logging_config                 change_handler   37: change
+2019-03-10 10:49:18,371 INFO     logging_config                 change_handler   39: <RotatingFileHandler /Users/work/futaba/FutaWatcher/log/slstage.log (NOTSET)>
+2019-03-10 10:49:18,371 INFO     Log                            get_line     22: /Users/work/futaba/FutaWatcher/log/Imgtoon.log
+2019-03-10 10:49:18,373 INFO     Log                            get_line     26: None
+2019-03-10 10:49:18,373 INFO     main                           <module>     25: Imgtoon.log
+2019-03-10 10:49:18,373 INFO     main                           <module>     26: [<RotatingFileHandler /Users/work/futaba/FutaWatcher/log/Imgtoon.log (NOTSET)>]
+2019-03-10 10:49:18,373 INFO     main                           <module>     27: None
+2019-03-10 10:49:18,373 INFO     CheckThread                    first        26: None
+2019-03-10 10:49:18,373 INFO     CheckThread                    first        28: Start Search Thread
+2019-03-10 10:49:18,373 INFO     ServerUI                       SearchThread   25: Imgtoon.log : ink.png
+2019-03-10 10:49:28,827 INFO     GetCatalogImages               get_catalog   84: success
+2019-03-10 10:49:28,828 INFO     TempleteMatching               judge_matching   87: /Users/work/futaba/FutaWatcher/.seed/ink.png
+2019-03-10 10:49:32,145 INFO     main                           <module>     32: None
+2019-03-10 10:49:32,146 INFO     CheckThread                    finish       39: There is no thread in Catalog.
+2019-03-10 10:49:32,146 INFO     CheckThread                    finish       40: None
+2019-03-10 10:50:00,787 INFO     logging_config                 change_handler   37: change
+2019-03-10 10:50:00,787 INFO     Log                            get_line     22: /Users/work/futaba/FutaWatcher/log/slstage.log
+2019-03-10 10:50:00,788 INFO     Log                            get_line     26: None
+2019-03-10 10:50:00,788 INFO     main                           <module>     25: slstage.log
+2019-03-10 10:50:00,789 INFO     main                           <module>     26: [<RotatingFileHandler /Users/work/futaba/FutaWatcher/log/slstage.log (NOTSET)>]
+2019-03-10 10:50:00,789 INFO     main                           <module>     27: None
+2019-03-10 10:50:00,789 INFO     CheckThread                    first        26: None
+2019-03-10 10:50:00,789 INFO     CheckThread                    first        28: Start Search Thread
+2019-03-10 10:50:00,789 INFO     ServerUI                       SearchThread   25: slstage.log : s.png
+2019-03-10 10:50:11,721 INFO     GetCatalogImages               get_catalog   84: success
+2019-03-10 10:50:11,721 INFO     TempleteMatching               judge_matching   87: /Users/work/futaba/FutaWatcher/.seed/s.png
+2019-03-10 10:50:14,963 INFO     main                           <module>     32: None
+2019-03-10 10:50:14,964 INFO     CheckThread                    finish       39: There is no thread in Catalog.
+2019-03-10 10:50:14,964 INFO     CheckThread                    finish       40: None
+2019-03-10 10:50:14,964 INFO     logging_config                 change_handler   37: change
+2019-03-10 10:50:14,964 INFO     logging_config                 change_handler   39: <RotatingFileHandler /Users/work/futaba/FutaWatcher/log/slstage.log (NOTSET)>
+2019-03-10 10:50:14,965 INFO     Log                            get_line     22: /Users/work/futaba/FutaWatcher/log/Imgtoon.log
+2019-03-10 10:50:14,966 INFO     Log                            get_line     26: None
+2019-03-10 10:50:14,966 INFO     main                           <module>     25: Imgtoon.log
+2019-03-10 10:50:14,967 INFO     main                           <module>     26: [<RotatingFileHandler /Users/work/futaba/FutaWatcher/log/Imgtoon.log (NOTSET)>]
+2019-03-10 10:50:14,967 INFO     main                           <module>     27: None
+2019-03-10 10:50:14,967 INFO     CheckThread                    first        26: None
+2019-03-10 10:50:14,967 INFO     CheckThread                    first        28: Start Search Thread
+2019-03-10 10:50:14,967 INFO     ServerUI                       SearchThread   25: Imgtoon.log : ink.png
